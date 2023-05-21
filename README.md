@@ -55,6 +55,12 @@ Examples:
 
 ## Ice
 The most slippery surface in the game.
+### Ice Slides
+Gives you a gigantic acceleration boost.
+#### **Basics**
+Start an ice-slide by rotating the car 90 degrees, then counter steer, all while still holding your throttle. You'll notice immediately when you get it.
+![without iceslide]()
+![with iceslide]()
 #### **Intermediate**
 You probably noticed that you don't have much control over the exact angle that you're turning at and that starting/exiting an ice-slide can be awkward at times. Well here are some tricks to help you with that..
 
@@ -109,8 +115,6 @@ Since the [last update](https://www.trackmania.com/news/7126). Ice wiggles are v
 How to perform an Ice wiggle:
 ![Steer, Countersteer to go straight, repeat.]()
 
-### Ice Slides
-Nuances between different surfaces will be explained later in this guide.
 
 ## Plastic
 The second most slipery surface of the game.
@@ -126,3 +130,4 @@ More slippery than dirt, less than plastic.
 //TODO: Illustrate scenarios when you actually want to rotate
 //TODO: Airbraking exceptions like ice, wet tires?,..
 //TODO: Add gifs for every ![]
+//TODO: Add a part that describes what the user should do when entering or exiting each surface. (Especially for ice) maybe in the general section?
