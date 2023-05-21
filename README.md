@@ -72,6 +72,7 @@ You probably noticed that you don't have much control over the exact angle that 
 ![ice exit with throttle vs without]()
 
 ##### **Adjusting your angle**
+It's better to take a turn slightly too wide than to take it to tight. It's easier and faster to adjust to the inside compared to making your turn wider.
 1. Brake while still holding throttle. When the brake button is pressed the car will rotate more inwards resulting in a tighter turn.
    1. Brake-tap: Most of the time what you'll want to do is tap brake multiple times to adjust your angle.
    2. Hold brake: Only hold brake for large corrections or for the tightest of turns. Try to not slow down so much that you start gearing down, this will make you lose control of the car if you're not careful.
