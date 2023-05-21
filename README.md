@@ -55,7 +55,35 @@ Examples:
 
 ## Ice
 The most slippery surface in the game.
+#### **Intermediate**
+You probably noticed that you don't have much control over the exact angle that you're turning at and that starting/exiting an ice-slide can be awkward at times. Well here are some tricks to help you with that..
 
+##### **Entering and exiting an ice-slide**
+1. When starting an ice-slide, let go of your throttle while doing the rotation movement. This will make the car rotate faster at the cost of a little bit of speed. This trade-off is worth it most of the time because you can start the ice-slide sooner.
+2. When exiting an ice-slide, do the same as in 1. This makes you to come out of an ice-slide quicker and allows you to straignten out your car faster.
+
+![ice enter with throttle vs without]()
+![ice exit with throttle vs without]()
+
+##### **Adjusting your angle**
+1. Brake while still holding throttle. When the brake button is pressed the car will rotate more inwards resulting in a tighter turn.
+   1. Brake-tap: Most of the time what you'll want to do is tap brake multiple times to adjust your angle.
+   2. Hold brake: Only hold brake for large corrections or for the tightest of turns. Try to not slow down so much that you start gearing down, this will make you lose control of the car if you're not careful.
+
+![ice brake-tap, not tight enough, too tight, perfect]()
+![ice hold brake 3-way view like above]()
+
+1. Brake without holding throttle
+   1. //TODO: what does this do?
+
+2. Let go of throttle briefly then press throttle again. This will result in a wider turn since your car will exit the ice-slide temporarily and just slide instead.
+   1. Just like with brake-taps it's best to release very briefly but multiple times to adjust your angle. Don't release throttle for too long or you'll risk sliding out.
+
+![ice no throttle long]()
+![ice no throttle short]()
+
+
+**For controller**: I recommend that you bind brake to something else than a trigger. This will allow you to press the button extremely shortly. Personnaly I use the x button (playstation) for this.
 ### Bobsleigh
 #### **Basics**
 Approach the turns in a way so that the car transitions smoothly to between the red lines. **The smoother the better.**
